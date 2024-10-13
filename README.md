@@ -13,10 +13,10 @@ A Kotlin-based Android **Music Player App** that allows users to play, manage, a
 
 | Feature         | Screenshot |
 |-----------------|-------------|
-| Home Screen     | ![Home Screen](https://github.com/yourusername/musicplayer-app/blob/master/Screenshot/HomeScreen.jpg) |
-| Music List      | ![Music List](https://github.com/yourusername/musicplayer-app/blob/master/Screenshot/MusicList.jpg) |
-| Play Controls   | ![Play Controls](https://github.com/yourusername/musicplayer-app/blob/master/Screenshot/PlayControls.png) |
-| Icon            | ![Icon](https://github.com/yourusername/musicplayer-app/blob/master/Screenshot/Icon.png) |
+| Home Screen     | ![Home Screen](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg) |
+| Music List      | ![Music List](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/MusicList.jpg) |
+| Play Controls   | ![Play Controls](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg) |
+| Icon            | ![Icon](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/Icon.png) |
 
 ## Installation
 
