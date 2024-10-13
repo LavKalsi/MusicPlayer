@@ -28,7 +28,7 @@ A Kotlin-based Android **Music Player App** that allows users to play, manage, a
   <tr>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg" width="150" height="334"/></td>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/MusicList.jpg" width="150" height="260"/></td>
-    <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg" width="150" height="60"/></td>
+    <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg" width="150" height="40"/></td>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/Icon.png" width="120" height="120"/></td>
   </tr>
 </table>
