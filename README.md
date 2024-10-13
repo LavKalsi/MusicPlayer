@@ -11,13 +11,6 @@ A Kotlin-based Android **Music Player App** that allows users to play, manage, a
 
 ## Screenshots
 
-| Feature         | Screenshot |
-|-----------------|-------------|
-| Home Screen     | ![Home Screen](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg) |
-| Music List      | ![Music List](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/MusicList.jpg) |
-| Play Controls   | ![Play Controls](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg) |
-| Icon            | ![Icon](https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/Icon.png) |
-
 <table>
   <tr>
     <td align="center">Home Screen</td>
@@ -28,7 +21,7 @@ A Kotlin-based Android **Music Player App** that allows users to play, manage, a
   <tr>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/HomeScreen.jpg" width="150" height="334"/></td>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/MusicList.jpg" width="150" height="260"/></td>
-    <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg" width="150" height="40"/></td>
+    <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/PlayControls.jpg" width="150" height="30"/></td>
     <td><img src="https://github.com/LavKalsi/MusicPlayer/blob/master/Screenshots/Icon.png" width="120" height="120"/></td>
   </tr>
 </table>
