@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Previous Button on the top-left -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Music Player"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="@color/green"/>
+    <Button
+        android:id="@+id/btnPrevious"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prev"
+        android:layout_marginTop="58dp"
+        android:layout_alignParentTop="true"
+        android:backgroundTint="@color/lightgreen"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="15dp" />
+
+    <!-- Play/Pause Button at the top center -->
+    <Button
+        android:id="@+id/btnPlayPause"
+        android:layout_width="wrap_content"
+        android:layout_height="200px"
+        android:text="Play"
+        android:backgroundTint="@color/green"
+        android:layout_marginTop="44dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@id/btnPrevious"
+        android:layout_toStartOf="@id/btnNext"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <!-- Next Button on the top-right -->
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_marginTop="58dp"
+        android:backgroundTint="@color/lightgreen"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Music List"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:textColor="@color/green"
+        android:textStyle="bold"
+        android:layout_marginTop="120dp"/>
+
+    <!-- ListView in the center of the screen -->
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_below="@+id/btnPlayPause"
+        android:layout_above="@+id/btnFindFolder"
+        android:divider="@android:color/darker_gray"
+        android:dividerHeight="1dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Find Folder Button at the bottom center -->
+    <Button
+        android:id="@+id/btnFindFolder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Folder"
+        android:backgroundTint="@color/green"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+
+</RelativeLayout>
